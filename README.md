@@ -171,12 +171,12 @@ SQL-Business-Insights-Project/
 ├── 3_business_queries.sql
 ├── README.md
 └── screenshots/
-├── total_revenue.png
-├── product_ranking.png
-├── customer_clv.png
-├── repeat_vs_onetime.png
-├── pareto.png
-└── erd.png
+    ├── total_revenue.png
+    ├── product_ranking.png
+    ├── customer_clv.png
+    ├── repeat_vs_onetime.png
+    ├── pareto.png
+    └── erd.png
 
 ---
 
