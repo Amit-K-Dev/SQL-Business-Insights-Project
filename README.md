@@ -164,6 +164,7 @@ This project demonstrates practical SQL skills required for a Data Analyst role,
 
 ## 📁 Project Structure
 
+```
 SQL-Business-Insights-Project/
 │
 ├── 1_database_setup.sql
@@ -177,6 +178,8 @@ SQL-Business-Insights-Project/
     ├── repeat_vs_onetime.png
     ├── pareto.png
     └── erd.png
+
+```
 
 ---
 
