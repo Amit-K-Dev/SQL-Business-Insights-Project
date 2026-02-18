@@ -175,8 +175,8 @@ SQL-Business-Insights-Project/
     ├── total_revenue.png
     ├── product_ranking.png
     ├── customer_clv.png
-    ├── repeat_vs_onetime.png
-    ├── pareto.png
+    ├── repeat_vs_onetime_revenue.png
+    ├── pareto_top_10_percent.png
     └── erd.png
 
 ```
